@@ -1,6 +1,6 @@
 # CS512 - Machine Learning
 
-Sabanci University Graduate Project conducted under the supervision of Öznur Taştan.
+Sabanci University Machine Learning Project conducted under the supervision of Öznur Taştan.
 
 Project scope: Deep mutational scanning (DMS) is a technique used by researchers to assess the effects of
 mutations on protein function. This method achieves to identify connections between mutations and
